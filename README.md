@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Brady Egleston, an undergraduate physics/CS student at University of Maryland. This is my education count.
+I'm Brady Egleston, an undergraduate physics/CS student at University of Maryland. This is my education account.
 <!--
 **beglesto/beglesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
